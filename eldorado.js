@@ -1,1 +1,1 @@
-const   skarb  = ["zimna coca cola z rana"]
+const skarb = ['zimna coca cola z rana']
